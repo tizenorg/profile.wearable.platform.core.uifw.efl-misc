@@ -40,7 +40,7 @@ group "Elm_Config" struct {
   value "edje_collection_cache" int: 64;
   value "finger_size" int: 30;
   value "fps" double: 30.0;
-  value "theme" string: "efl-theme-tizen-mobile:default-mobile";
+  value "theme" string: "tizen-wearable-circle-HVGA";
   value "modules" string: "prefs>prefs_iface:datetime_input_spinner>datetime/api";
   value "tooltip_delay" double: 1.0;
   value "cursor_engine_only" uchar: 1;
