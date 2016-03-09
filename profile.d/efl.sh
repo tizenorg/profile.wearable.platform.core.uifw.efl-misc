@@ -1,7 +1,6 @@
 ## Elementary
 export ELM_PROFILE="wearable"
 export ELM_DISPLAY="wl"
-export ELM_ACCEL="gl"
 
 ## Ecore
 export ECORE_IMF_INPUT_PANEL_ENABLED=1
