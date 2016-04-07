@@ -4,6 +4,7 @@ export ELM_DISPLAY="wl"
 
 ## Ecore
 export ECORE_IMF_INPUT_PANEL_ENABLED=1
+export ECORE_INPUT_CANCEL=1
 
 ## Evas
 export EVAS_FONT_DPI=72
