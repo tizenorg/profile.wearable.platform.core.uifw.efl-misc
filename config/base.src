@@ -43,7 +43,7 @@ group "Elm_Config" struct {
   value "finger_size" int: 30;
   value "fps" double: 30.0;
   value "theme" string: "efl-theme-tizen-wearable-circle";
-  value "modules" string: "prefs>prefs_iface:datetime_input_spinner>datetime/api";
+  value "modules" string: "prefs>prefs_iface:datetime_input_circle>datetime/api";
   value "tooltip_delay" double: 1.0;
   value "cursor_engine_only" uchar: 1;
   value "focus_highlight_enable" uchar: 0;
