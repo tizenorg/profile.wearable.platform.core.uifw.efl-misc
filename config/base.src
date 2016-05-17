@@ -30,7 +30,7 @@ group "Elm_Config" struct {
   value "popup_horizontal_align" double: 0.5;
   value "popup_vertical_align" double: 0.5;
   value "scale" double: 1.0;
-  value "win_no_border" int: 0;
+  value "win_no_border" int: 1;
   value "bgpixmap" int: 0;
   value "compositing" int: 1;
   value "font_hinting" int: 2;
