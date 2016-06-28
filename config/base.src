@@ -103,6 +103,8 @@ group "Elm_Config" struct {
   value "audio_mute_input" uchar: 0;
   value "audio_mute_alert" uchar: 0;
   value "audio_mute_all" uchar: 0;
+  value "scroll_item_align_enable" uchar: 1;
+  value "scroll_item_valign" string: "center"
   group "color_palette" list {
      group "Elm_Custom_Palette" struct {
         value "palette_name" string: "default";
